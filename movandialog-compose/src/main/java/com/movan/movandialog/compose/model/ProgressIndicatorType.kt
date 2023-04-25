@@ -1,0 +1,32 @@
+package com.movan.movandialog.compose.model
+
+enum class ProgressIndicatorType {
+    BallPulse,
+    BallGridPulse,
+    BallClipRotate,
+    BallClipRotatePulse,
+    SquareSpin,
+    BallClipRotateMultiple,
+    BallPulseRise,
+    BallRotate,
+    CubeTransition,
+    BallZigZag,
+    BallZigZagDeflect,
+    BallTrianglePath,
+    BallScale,
+    LineScale,
+    LineScaleParty,
+    BallScaleMultiple,
+    BallPulseSync,
+    BallBeat,
+    LineScalePulseOut,
+    LineScalePulseOutRapid,
+    BallScaleRipple,
+    BallScaleRippleMultiple,
+    BallSpinFadeLoader,
+    LineSpinFadeLoader,
+    TriangleSkewSpin,
+    Pacman,
+    BallGridBeat,
+    SemiCircleSpin
+}
